@@ -1,0 +1,12 @@
+{
+  "name": "modul_http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node query-string.js "
+  },
+  "author": "",
+  "license": "ISC"
+}
